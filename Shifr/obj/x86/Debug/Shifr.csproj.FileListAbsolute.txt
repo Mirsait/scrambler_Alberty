@@ -1,0 +1,7 @@
+c:\users\phoenix\documents\visual studio 2010\Projects\Shifr\Shifr\bin\Debug\Shifr.exe
+c:\users\phoenix\documents\visual studio 2010\Projects\Shifr\Shifr\bin\Debug\Shifr.pdb
+c:\users\phoenix\documents\visual studio 2010\Projects\Shifr\Shifr\obj\x86\Debug\Shifr.Form1.resources
+c:\users\phoenix\documents\visual studio 2010\Projects\Shifr\Shifr\obj\x86\Debug\Shifr.Properties.Resources.resources
+c:\users\phoenix\documents\visual studio 2010\Projects\Shifr\Shifr\obj\x86\Debug\Shifr.csproj.GenerateResource.Cache
+c:\users\phoenix\documents\visual studio 2010\Projects\Shifr\Shifr\obj\x86\Debug\Shifr.exe
+c:\users\phoenix\documents\visual studio 2010\Projects\Shifr\Shifr\obj\x86\Debug\Shifr.pdb

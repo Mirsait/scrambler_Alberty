@@ -1,0 +1,6 @@
+c:\users\phoenix\documents\visual studio 2012\Projects\Shifr\Shifr\bin\Debug\Shifr.exe.config
+c:\users\phoenix\documents\visual studio 2012\Projects\Shifr\Shifr\bin\Debug\Shifr.exe
+c:\users\phoenix\documents\visual studio 2012\Projects\Shifr\Shifr\bin\Debug\Shifr.pdb
+c:\users\phoenix\documents\visual studio 2012\Projects\Shifr\Shifr\obj\Debug\Shifr.csprojResolveAssemblyReference.cache
+c:\users\phoenix\documents\visual studio 2012\Projects\Shifr\Shifr\obj\Debug\Shifr.exe
+c:\users\phoenix\documents\visual studio 2012\Projects\Shifr\Shifr\obj\Debug\Shifr.pdb
